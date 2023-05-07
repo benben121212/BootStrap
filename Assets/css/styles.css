@@ -3,3 +3,17 @@
     margin: 10px; 
     height: 80px;
 }
+
+
+#Accueil {
+    background-color: black ;
+    color: aquamarine;
+}
+
+#Accueil .h1{
+    color: aquamarine;
+}
+
+#Projet  { 
+    background-color: rgb(0, 0, 0);
+}
